@@ -1176,3 +1176,11 @@ footer.main-footer nav.footer-nav ul li a{
 	    -ms-transform:translateX(-10px);
 	        transform:translateX(-10px);
 }
+.parallax {
+    background-image: url("parallax/pivd.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
