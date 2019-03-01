@@ -1177,7 +1177,23 @@ footer.main-footer nav.footer-nav ul li a{
 	        transform:translateX(-10px);
 }
 .parallax {
+    background-image: url("parallax/05.JPG");
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
     background-image: url("parallax/pivd.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    background-image: url("parallax/par-llast.JPG");
     min-height: 400px;
     background-attachment: fixed;
     background-position: center;
